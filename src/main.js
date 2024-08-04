@@ -24,7 +24,6 @@ console.log(`输出: ${decodeFile}`)
 // 读取源代码
 const sourceCode = fs.readFileSync(encodeFile, { encoding: 'utf-8' })
 
-
 let processedCode = sourceCode;
 let pluginUsed = '';
 
@@ -34,13 +33,16 @@ const plugins = [
   { name: "ob2", plugin: PluginObfuscator },
   { name: 'sojsonv7', plugin: PluginSojsonV7 },
   { name: 'sojson', plugin: PluginSojson },
+    { name: 'common', plugin: PluginCommon },// 最后一次使用通用插件
   { name: 'awsc', plugin: PluginAwsc },
   { name: 'jjencode', plugin: PluginJjencode },
-  { name: 'common', plugin: PluginCommon },// 最后一次使用通用插件
 
 ];
 
 for (let plugin of plugins) {
+  if (sourceCode.indexOf("smEcV") != -1) {
+    break
+  }
   try {
     const code = plugin.plugin(sourceCode);
     if (code && code !== processedCode) {
