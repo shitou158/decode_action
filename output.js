@@ -1,4 +1,4 @@
-//Wed Aug 07 2024 04:59:13 GMT+0000 (Coordinated Universal Time)
+//Thu Aug 08 2024 12:45:27 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env("兰精灵");
