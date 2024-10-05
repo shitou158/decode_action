@@ -1,19 +1,9 @@
+//Sat Oct 05 2024 08:08:49 GMT+0000 (Coordinated Universal Time)
+//Base:https://github.com/echo094/decode-js
+//Modify:https://github.com/smallfawn/decode_action
 //Sat Oct 05 2024 08:06:49 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
-/*
-甬派任务
-功能：做一系列积分任务，抽奖，提现
-
-账号#密码#deviceId#支付宝账号#支付宝姓名
-  
-变量
-export ypCk=''
-export ypProxy=''  //代理地址
-export ypCdk='' 脚本卡密，找作者要
-多号 换行 隔开
-
-*/
 
 var jjmYLs, cBghg0, Iz31o8_, T_Jm7O, lO1x3Hj, vAxD_kD, gl5P3QK, QoL1wBJ, xToObb, v5mgR4, ttko8gu, kgybcp, wdlT8t, Tkw8j5v, kFRWrA, SO5Y4zC, S6m0oU, kOt8y0p, P4nccm4, qRCKXp;
 function ckP39r(cBghg0) {
@@ -225,7 +215,7 @@ function E8wmQD(jjmYLs, cBghg0) {
   }, 2), E8wmQD(jjmYLs, cBghg0);
 }
 let krssx4g = wdYzF02("\u752C", "\u6D3E", S6m0oU = 5),
-  AUf8IbX = wdYzF02(3. + "4" + ckP39r(-12), ckP39r(-1), S6m0oU = 5);
+  AUf8IbX = wdYzF02(34 + ckP39r(-12), ckP39r(-1), S6m0oU = 5);
 const uzE5Xw = new ZLO2GQ(krssx4g),
   Q4n1tV = require(wdYzF02(ckP39r(-25) + "x" + ckP39r(-20) + "o", "s", lJHPc20(ckP39r(-30))));
 let japNrU0 = require(wdYzF02(ckP39r(-22) + "e" + "q" + "u" + "e" + "s", "t", S6m0oU = 5));
@@ -4444,7 +4434,7 @@ function ZLO2GQ(jjmYLs, cBghg0) {
         S: T_Jm7O[wdYzF02(ckP39r(-21) + ckP39r(-23) + ckP39r(-18) + ckP39r(44) + ckP39r(-20) + "l" + "l" + ckP39r(-20) + ckP39r(1) + ckP39r(-23) + ckP39r(-16) + "o" + ckP39r(-19) + "d", ckP39r(1), S6m0oU = 5)]()
       };
       /(y+)/[wdYzF02(te + ckP39r(1), ckP39r(-18), lJHPc20(5))](jjmYLs) && (jjmYLs = jjmYLs[wdYzF02(re + ckP39r(-11) + ckP39r(-24) + "a" + ckP39r(-16), "e", lJHPc20(5))](RegExp[wdYzF02(ckP39r(101), "1", lJHPc20(ckP39r(-30)))], Iz31o8_[wdYzF02(ckP39r(-14) + "n" + "h" + "A", ckP39r(44), S6m0oU = 5)](T_Jm7O[wdYzF02(ckP39r(-21) + ckP39r(-23) + ckP39r(-18) + "F" + ckP39r(0) + "l" + ckP39r(-24) + ckP39r(17) + "e" + "a", "r", S6m0oU = ckP39r(-30))](), "")[wdYzF02(ckP39r(1) + "u" + ckP39r(18) + ckP39r(1) + "t", "r", S6m0oU = ckP39r(-30))](wdYzF02(4, RegExp["$" + ckP39r(-2)][ckP39r(-24) + "e" + ckP39r(-19) + "g" + "t" + "h"], S6m0oU = ckP39r(38)))));
-      for (let vAxD_kD in lO1x3Hj) new RegExp(Iz31o8_[wdYzF02(ckP39r(-14) + ckP39r(-19) + ckP39r(-15) + "A", "M", lJHPc20(5))](Iz31o8_[wdYzF02(fO + "K" + "p", ckP39r(42), lJHPc20(5))](ckP39r(71), vAxD_kD), ")"))[wdYzF02(ckP39r(-18) + "e" + ckP39r(1), ckP39r(-18), S6m0oU = 5)](jjmYLs) && (jjmYLs = jjmYLs[wdYzF02("r" + ckP39r(-23) + "p" + ckP39r(-24) + "a" + ckP39r(-16), ckP39r(-23), S6m0oU = ckP39r(-30))](RegExp[wdYzF02(ckP39r(101), "1", S6m0oU = ckP39r(-30))], Iz31o8_[wdYzF02("a" + ckP39r(56) + "d" + "y", ckP39r(75), lJHPc20(5))](1, RegExp[wdYzF02(ckP39r(101), ckP39r(-2), lJHPc20(5))][wdYzF02("l" + ckP39r(-23) + ckP39r(-19) + "g" + "t", ckP39r(-15), S6m0oU = ckP39r(-30))]) ? lO1x3Hj[vAxD_kD] : wdYzF02(00, lO1x3Hj[vAxD_kD], S6m0oU = ckP39r(-30))[wdYzF02(ckP39r(1) + ckP39r(0) + "b" + "s" + "t", ckP39r(-22), lJHPc20(ckP39r(-30)))](Iz31o8_[wdYzF02(ckP39r(75) + ckP39r(-5) + ckP39r(7) + ckP39r(-16), ckP39r(-23), lJHPc20(5))]("", lO1x3Hj[vAxD_kD])[wdYzF02(ckP39r(-24) + ckP39r(-23) + ckP39r(-19) + "g" + ckP39r(-18), "h", lJHPc20(5))])));
+      for (let vAxD_kD in lO1x3Hj) new RegExp(Iz31o8_[wdYzF02(ckP39r(-14) + ckP39r(-19) + ckP39r(-15) + "A", "M", lJHPc20(5))](Iz31o8_[wdYzF02(fO + "K" + "p", ckP39r(42), lJHPc20(5))](ckP39r(71), vAxD_kD), ")"))[wdYzF02(ckP39r(-18) + "e" + ckP39r(1), ckP39r(-18), S6m0oU = 5)](jjmYLs) && (jjmYLs = jjmYLs[wdYzF02("r" + ckP39r(-23) + "p" + ckP39r(-24) + "a" + ckP39r(-16), ckP39r(-23), S6m0oU = ckP39r(-30))](RegExp[wdYzF02(ckP39r(101), "1", S6m0oU = ckP39r(-30))], Iz31o8_[wdYzF02("a" + ckP39r(56) + "d" + "y", ckP39r(75), lJHPc20(5))](1, RegExp[wdYzF02(ckP39r(101), ckP39r(-2), lJHPc20(5))][wdYzF02("l" + ckP39r(-23) + ckP39r(-19) + "g" + "t", ckP39r(-15), S6m0oU = ckP39r(-30))]) ? lO1x3Hj[vAxD_kD] : wdYzF02(0, lO1x3Hj[vAxD_kD], S6m0oU = ckP39r(-30))[wdYzF02(ckP39r(1) + ckP39r(0) + "b" + "s" + "t", ckP39r(-22), lJHPc20(ckP39r(-30)))](Iz31o8_[wdYzF02(ckP39r(75) + ckP39r(-5) + ckP39r(7) + ckP39r(-16), ckP39r(-23), lJHPc20(5))]("", lO1x3Hj[vAxD_kD])[wdYzF02(ckP39r(-24) + ckP39r(-23) + ckP39r(-19) + "g" + ckP39r(-18), "h", lJHPc20(5))])));
       return jjmYLs;
     }
     [wdYzF02(ms, ckP39r(-21), lJHPc20(ckP39r(-30)))](cBghg0 = jjmYLs, T_Jm7O = "", lO1x3Hj = "", vAxD_kD) {
